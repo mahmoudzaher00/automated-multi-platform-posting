@@ -1,0 +1,12 @@
+test_accepts_exactly_200_characters (test_posting.PostingTests.test_accepts_exactly_200_characters) ... ok
+test_handles_upstream_timeout (test_posting.PostingTests.test_handles_upstream_timeout) ... ok
+test_keeps_other_platform_results_when_one_fails (test_posting.PostingTests.test_keeps_other_platform_results_when_one_fails) ... ok
+test_publishes_to_all_five_platforms (test_posting.PostingTests.test_publishes_to_all_five_platforms) ... ok
+test_rejects_invalid_messages_without_contacting_platforms (test_posting.PostingTests.test_rejects_invalid_messages_without_contacting_platforms) ... ok
+test_reports_missing_credentials_without_network_requests (test_posting.PostingTests.test_reports_missing_credentials_without_network_requests) ... ok
+test_reports_private_wordpress_site (test_posting.PostingTests.test_reports_private_wordpress_site) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.074s
+
+OK
